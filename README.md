@@ -1,6 +1,16 @@
-# Telegram Autopilot
+# Telegram Autopilot — OpenClaw Skill
 
-AI-powered autopilot for personal Telegram accounts. Responds to private messages as you when you're unavailable — like a smart secretary.
+> 🐾 An [OpenClaw](https://openclaw.ai) skill that turns your AI agent into a Telegram autopilot.
+
+AI-powered autopilot for personal Telegram accounts. Your OpenClaw agent responds to private messages as you when you're unavailable — like a smart secretary that knows your style.
+
+## Install via ClawHub
+
+```bash
+clawhub install telegram-autopilot
+```
+
+Or manually: copy this folder into your OpenClaw workspace `skills/` directory.
 
 ## Features
 
@@ -141,13 +151,14 @@ python3 scripts/send_paid_media.py \
 - Telegram may restrict accounts with aggressive automation — natural delays are built in
 - Only one process can use a session file at a time
 
-## OpenClaw Skill
+## What is OpenClaw?
 
-This is also available as an [OpenClaw](https://openclaw.ai) skill. Install with:
+[OpenClaw](https://openclaw.ai) is an open-source AI agent platform that connects to your messaging apps (Telegram, Discord, WhatsApp, etc.) and runs skills autonomously. This skill extends your OpenClaw agent with Telegram userbot capabilities.
 
-```bash
-clawhub install telegram-autopilot
-```
+- 🌐 [OpenClaw Website](https://openclaw.ai)
+- 📖 [OpenClaw Docs](https://docs.openclaw.ai)
+- 🛠️ [ClawHub Skills](https://clawhub.com)
+- 💬 [Discord Community](https://discord.com/invite/clawd)
 
 ## License
 
