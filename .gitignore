@@ -1,0 +1,8 @@
+*.session
+config.json
+conversations.json
+enter_code.txt
+enter_password.txt
+__pycache__/
+*.pyc
+.env
