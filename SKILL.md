@@ -5,6 +5,10 @@ description: Manage a Telegram userbot autopilot that responds to private messag
 
 # Telegram Autopilot
 
+> **Source:** https://github.com/Shor73/telegram-autopilot
+> **Author:** [@Shor73](https://github.com/Shor73)
+> **License:** MIT
+
 AI-powered autopilot for personal Telegram accounts. Responds to private messages as the user when they're unavailable.
 
 ## Prerequisites
